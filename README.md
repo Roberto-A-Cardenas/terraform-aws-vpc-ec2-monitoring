@@ -1,3 +1,7 @@
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blue?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Deployed-orange?logo=amazon-aws)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # AWS VPC with Public and Private Subnets using Terraform
 
 This project provisions a secure and monitored AWS VPC using Terraform. It includes public and private subnets, EC2 instances, and CloudWatch monitoring. It’s a great example of Infrastructure as Code (IaC) for networking, compute, and observability.
